@@ -22,6 +22,7 @@ public class AppTest {
 		}
 		System.out.println(driver.getTitle());
 		//driver.quit();
+		//close browser
 		driver.close();
 	}
 }
