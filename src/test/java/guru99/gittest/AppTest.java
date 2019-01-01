@@ -23,6 +23,7 @@ public class AppTest {
 		System.out.println(driver.getTitle());
 		//driver.quit();
 		//close browser
+		//jaziz test
 		driver.close();
 	}
 }
