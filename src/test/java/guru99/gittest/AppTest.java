@@ -24,6 +24,7 @@ public class AppTest {
 		//driver.quit();
 		//close browser
 		//jaziz test
+		//more test
 		driver.close();
 	}
 }
